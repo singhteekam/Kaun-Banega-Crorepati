@@ -58,3 +58,4 @@ KBC.iml
 pubspec.lock
 web
 .dart_tools
+.firebaserc
